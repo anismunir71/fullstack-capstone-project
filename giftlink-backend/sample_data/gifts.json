@@ -1,0 +1,18 @@
+[
+  { "id": "1", "name": "Wooden Chair", "category": "Furniture", "condition": "Used", "zipcode": "10001" },
+  { "id": "2", "name": "Desk Lamp", "category": "Lighting", "condition": "New", "zipcode": "10001" },
+  { "id": "3", "name": "Microwave", "category": "Appliances", "condition": "Used", "zipcode": "10002" },
+  { "id": "4", "name": "Coffee Table", "category": "Furniture", "condition": "Used", "zipcode": "10002" },
+  { "id": "5", "name": "Blender", "category": "Appliances", "condition": "Like New", "zipcode": "10003" },
+  { "id": "6", "name": "Bookshelf", "category": "Furniture", "condition": "Used", "zipcode": "10003" },
+  { "id": "7", "name": "Toaster", "category": "Appliances", "condition": "Used", "zipcode": "10004" },
+  { "id": "8", "name": "Electric Kettle", "category": "Appliances", "condition": "New", "zipcode": "10004" },
+  { "id": "9", "name": "Office Chair", "category": "Furniture", "condition": "Like New", "zipcode": "10005" },
+  { "id": "10", "name": "Floor Lamp", "category": "Lighting", "condition": "Used", "zipcode": "10005" },
+  { "id": "11", "name": "Air Fryer", "category": "Appliances", "condition": "New", "zipcode": "10006" },
+  { "id": "12", "name": "Dining Table", "category": "Furniture", "condition": "Used", "zipcode": "10006" },
+  { "id": "13", "name": "Wall Clock", "category": "Decor", "condition": "Like New", "zipcode": "10007" },
+  { "id": "14", "name": "Bedside Lamp", "category": "Lighting", "condition": "Used", "zipcode": "10007" },
+  { "id": "15", "name": "Vacuum Cleaner", "category": "Appliances", "condition": "Used", "zipcode": "10008" },
+  { "id": "16", "name": "Sofa", "category": "Furniture", "condition": "Used", "zipcode": "10008" }
+]
